@@ -1,25 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdurrahman Karaoğlu</h1>
-<h3 align="center">Hello! I am Abdurrahman Karaoğlu, Software Developer and technology enthusiast. I am interested in software development, open source projects, and new technologies.</h3>
-
 <h1 align="center">Merhaba! 👋, Ben Abdurrahman Karaoğlu</h1>
 <h3 align="center">Merhaba! Ben Abdurrahman Karaoğlu, bir Yazılım Geliştirici ve teknoloji meraklısıyım. Yazılım geliştirme, açık kaynak projeler ve yeni teknolojilere ilgi duyuyorum.</h3>
-
-- 🌱 I’m currently learning **Flutter, C#, .Net Core, Node.js, MS SQL, Blazor**
-- 🌱 Additionally, I’m exploring technologies like **RabbitMQ, Redis**
-
-- 📫 How to reach me: **abdurrahmank118@gmail.com**
 
 - 🌱 Şu anda öğrenmekte olduğum teknolojiler: **Flutter, C#, .Net Core, Node.js, MS SQL, Blazor**
 - 🌱 Ayrıca, şu teknolojileri de keşfediyorum: **RabbitMQ, Redis**
 
 - 📫 Benimle iletişime geçmek için: **abdurrahmank118@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/abdurrahman-karaoglu-405369207" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurrahman-karaoglu-405369207" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
@@ -28,7 +14,6 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Kullandığım Diller ve Araçlar:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
