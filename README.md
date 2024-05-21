@@ -94,12 +94,13 @@
 ### GitHub İstatistikleri 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurrahmank118&show_icons=true&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdurrahmanKaraoglu&show_icons=true&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Stats" />
 </p>
 
 ### GitHub Ödülleri 🏆
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdurrahmank118&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdurrahmanKaraoglu&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Trophies" />
 </p>
+
 
