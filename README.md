@@ -102,7 +102,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdurrahmanKaraoglu&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Trophies" />
 </p>
-
-### En Çok Katkıda Bulunduğum Depo
-
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=AbdurrahmanKaraoglu&repo=REPO_AD)](https://github.com/AbdurrahmanKaraoglu/REPO_AD)
