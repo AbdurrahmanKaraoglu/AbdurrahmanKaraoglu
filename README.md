@@ -82,6 +82,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbdurrahmanKaraoglu&show_icons=true&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Stats" />
 </p>
 
+### En Çok Kullandığım Diller
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahmanKaraoglu&layout=compact)](https://github.com/AbdurrahmanKaraoglu)
+
 ### GitHub Ödülleri 🏆
 
 <p align="center">
