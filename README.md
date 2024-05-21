@@ -90,3 +90,16 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
 </p>
+
+### GitHub İstatistikleri 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurrahmank118&show_icons=true&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Stats" />
+</p>
+
+### GitHub Ödülleri 🏆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdurrahmank118&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Trophies" />
+</p>
+
