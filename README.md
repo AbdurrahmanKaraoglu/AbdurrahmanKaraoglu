@@ -1,4 +1,4 @@
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<table border="1" width="100%">
     <tr>
         <td style="width: 10%; vertical-align: center;">
             <!-- Üçüncü Bölme -->
