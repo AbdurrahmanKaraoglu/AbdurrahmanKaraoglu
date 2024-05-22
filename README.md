@@ -3,7 +3,7 @@
         <td style="width: 20%; vertical-align: center;">
             <!-- Üçüncü Bölme -->
             <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkish Flag" width="150" height="100"
-                style="display: block; margin-left: auto; margin-right: auto;">
+                style="display: block; ">
         </td>
         <td style="width: 80%; vertical-align: top;">
             <!-- Dördüncü Bölme -->
