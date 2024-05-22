@@ -1,14 +1,60 @@
-<h1 align="center">Merhaba! 👋, Ben Abdurrahman Karaoğlu</h1>
-<span style="font-size: 18px;">🚀 Yazılım geliştiriciyim ve bu alanda hem Backend hem de Frontend uzmanlığına sahibim. Backend tarafında genellikle C# .NET Core ve Node.js kullanarak çalışıyorum. MS SQL ve PostgreSQL gibi veritabanı yönetim sistemleriyle de deneyimim bulunuyor. Frontend tarafında ise HTML, CSS, JavaScript ve Flutter gibi teknolojilerle interaktif ve kullanıcı dostu arayüzler oluşturuyorum. Yazılım geliştirme tutkum, açık kaynak projelere katkıda bulunma isteğim ve sürekli olarak yeni teknolojileri öğrenme arzum beni her zaman motive ediyor. Bu yönlerimle birlikte, projelerimi yenilikçi ve etkili bir şekilde yönetme yeteneğine sahibim. Ayrıca, takım çalışmasına uyumlu bir yapıya sahibim ve iletişim becerilerimle projelerdeki paydaşlarla etkili bir şekilde iletişim kurabiliyorum.</span>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
 
-- 🌱 Şu anda öğrenmekte olduğum teknolojiler: **Flutter, C#, .Net Core, Node.js, MS SQL, Blazor**
-- 🌱 Ayrıca, şu teknolojileri de keşfediyorum: **RabbitMQ, Redis**
+    <tr>
+        <td style="width: 10%; vertical-align: center;">
+            <!-- Üçüncü Bölme -->
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkish Flag" width="150" height="100"
+                style="display: block; margin-left: auto; margin-right: auto;">
+        </td>
+        <td style="width: 90%; vertical-align: top;">
+            <!-- Dördüncü Bölme -->
+            <h1 align="center">Merhaba! 👋, Ben Abdurrahman Karaoğlu</h1>
+            <span style="font-size: 18px;">🚀 Yazılım geliştiriciyim ve bu alanda hem Backend hem de Frontend uzmanlığına sahibim. Backend tarafında genellikle C# .NET Core ve Node.js kullanarak
+                çalışıyorum. MS SQL ve PostgreSQL gibi veritabanı yönetim sistemleriyle de deneyimim bulunuyor. Frontend tarafında ise HTML, CSS, JavaScript ve Flutter gibi teknolojilerle interaktif
+                ve kullanıcı dostu arayüzler oluşturuyorum. Yazılım geliştirme tutkum, açık kaynak projelere katkıda bulunma isteğim ve sürekli olarak yeni teknolojileri öğrenme arzum beni her zaman
+                motive ediyor. Bu yönlerimle birlikte, projelerimi yenilikçi ve etkili bir şekilde yönetme yeteneğine sahibim. Ayrıca, takım çalışmasına uyumlu bir yapıya sahibim ve iletişim
+                becerilerimle projelerdeki paydaşlarla etkili bir şekilde iletişim kurabiliyorum.</span>
 
-- 📫 Benimle iletişime geçmek için: **abdurrahmank118@gmail.com**
+            <ul>
+                <li>🌱 Şu anda öğrenmekte olduğum teknolojiler: <strong>Flutter, C#, .Net Core, Node.js, MS SQL, Blazor</strong></li>
+                <li>🌱 Ayrıca, şu teknolojileri de keşfediyorum: <strong>RabbitMQ, Redis</strong></li>
+                <li>📫 Benimle iletişime geçmek için: <strong>abdurrahmank118@gmail.com</strong></li>
+            </ul>
 
-## 👨‍💻 Hakkımda:
-Bilgisayar programcılığı alanındaki önlisans eğitimimin ardından Bilgisayar Mühendisliği lisans eğitimine geçiş yaptım. Bilgisayar bilimleri ve yazılım geliştirme konusundaki tutkum, bilgi ve becerilerimi sürekli olarak geliştirmemi sağladı. İş hayatına ARGEM BİLGİ TEKNOLOJİLERİ GIDA VE DIŞ TİCARET LİMİTED ŞİRKET'inde yazılım geliştirici olarak başladım ve o zamandan beri birçok yazılım projesine katkıda bulundum. Şu anda SENCE BİLİŞİM ANONİM ŞİRKETİ'nde çalışıyorum.
+            <h2 align="start">👨‍💻 Hakkımda:</h2>
+            <p>Bilgisayar programcılığı alanındaki önlisans eğitimimin ardından Bilgisayar Mühendisliği lisans eğitimine geçiş yaptım. Bilgisayar bilimleri ve yazılım geliştirme konusundaki tutkum,
+                bilgi ve becerilerimizi sürekli olarak geliştirmemi sağladı. İş hayatına <strong>ARGEM BİLGİ TEKNOLOJİLERİ GIDA VE DIŞ TİCARET LİMİTED ŞİRKETİ</strong>'nde yazılım geliştirici olarak
+                başladım ve o
+                zamandan beri birçok yazılım projesine katkıda bulundum. Şu anda <strong>SENCE BİLİŞİM ANONİM ŞİRKETİ</strong>'nde çalışıyorum.</p>
+        </td>
+    </tr>
 
+    <tr>
+        <td style="width: 10%; vertical-align: center;">
+            <!-- İlk Bölme -->
+        </td>
+        <td style="width: 90%; vertical-align: top;">
+            <!-- İkinci Bölme -->
+            <h1 align="center">Hello! 👋, I'm Abdurrahman Karaoğlu</h1>
+            <span style="font-size: 18px;">🚀 I'm a software developer with expertise in both Backend and Frontend development. On the Backend side, I mainly work with C# .NET Core and Node.js. I also
+                have experience with database management systems like MS SQL and PostgreSQL. On the Frontend side, I create interactive and user-friendly interfaces using technologies such as HTML,
+                CSS, JavaScript, and Flutter. My passion for software development, desire to contribute to open-source projects, and eagerness to constantly learn new technologies always motivate me.
+                With these qualities, I'm able to manage my projects innovatively and effectively. Additionally, I possess a cooperative nature for teamwork and can communicate effectively with
+                stakeholders in projects.</span>
+
+            <ul>
+                <li>🌱 <strong>Technologies I'm currently learning:</strong> Flutter, C#, .Net Core, Node.js, MS SQL, Blazor</li>
+                <li>🌱 <strong>Technologies I'm also exploring:</strong> RabbitMQ, Redis</li>
+                <li>📫 <strong>Get in touch with me:</strong> abdurrahmank118@gmail.com</li>
+            </ul>
+
+            <h2 align="start">👨‍💻 About Me:</h2>
+            <p>After completing my associate degree in computer programming, I transitioned to a bachelor's degree in Computer Engineering. My passion for computer science and software development has
+                continuously driven me to enhance my knowledge and skills. I began my professional career as a software developer at <strong>ARGEM BİLGİ TEKNOLOJİLERİ GIDA VE DIŞ TİCARET LİMİTED ŞİRKETİ</strong>, where
+                I have contributed to numerous software projects. Currently, I'm working at <strong>SENCE BİLİŞİM ANONİM ŞİRKETİ</strong>.</p>
+        </td>
+    </tr>
+</table>
 
 ## 🌐 Sosyal Medya:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrahman-karaoglu-405369207) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abdurrahmankaraoglu11) 
