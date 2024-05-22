@@ -98,6 +98,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### GitHub Ödülleri | GitHub Awards 🏆
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdurrahmanKaraoglu&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Trophies" />
+</p>
+
 ## 📊 GitHub İstatistikleri | GitHub Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=AbdurrahmanKaraoglu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdurrahmanKaraoglu&theme=dark&hide_border=false)<br/>
