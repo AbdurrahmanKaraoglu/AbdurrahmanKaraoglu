@@ -1,11 +1,11 @@
 <table border="1" width="100%">
     <tr>
-        <td style="width: 10%; vertical-align: center;">
+        <td style="width: 20%; vertical-align: center;">
             <!-- Üçüncü Bölme -->
             <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkish Flag" width="150" height="100"
                 style="display: block; margin-left: auto; margin-right: auto;">
         </td>
-        <td style="width: 90%; vertical-align: top;">
+        <td style="width: 80%; vertical-align: top;">
             <!-- Dördüncü Bölme -->
             <h1 align="center">Merhaba! 👋, Ben Abdurrahman Karaoğlu</h1>
             <span style="font-size: 18px;">🚀 Yazılım geliştiriciyim ve bu alanda hem Backend hem de Frontend uzmanlığına sahibim. Backend tarafında genellikle C# .NET Core ve Node.js kullanarak
@@ -26,10 +26,10 @@
         </td>
     </tr>
     <tr>
-        <td style="width: 10%; vertical-align: center;">
+        <td style="width: 20%; vertical-align: center;">
             <!-- İlk Bölme -->
         </td>
-        <td style="width: 90%; vertical-align: top;">
+        <td style="width: 80%; vertical-align: top;">
             <!-- İkinci Bölme -->
             <h1 align="center">Hello! 👋, I'm Abdurrahman Karaoğlu</h1>
             <span style="font-size: 18px;">🚀 I'm a software developer with expertise in both Backend and Frontend development. On the Backend side, I mainly work with C# .NET Core and Node.js. I also
