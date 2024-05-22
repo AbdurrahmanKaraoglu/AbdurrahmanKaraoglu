@@ -86,18 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahmanKaraoglu&layout=compact&theme=algolia" alt="En Çok Kullandığım Diller" />
 </p>
 
-### GitHub Ödülleri 🏆
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdurrahmanKaraoglu&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Trophies" />
-</p>
-
-### Katkı Grafiği 📈
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AbdurrahmanKaraoglu&theme=algolia" alt="Abdurrahman Karaoğlu's Contribution Graph" />
-</p>
-
 ### En Çok Katkıda Bulunduğum Repo
 
 <p align="center">
