@@ -1,5 +1,12 @@
 # 💫 About Me:
-Şu anda öğrenmekte olduğum teknolojiler: Flutter, C#, .Net Core, Node.js, MS SQL, Blazor<br>Ayrıca, şu teknolojileri de keşfediyorum: RabbitMQ, Redis<br> Benimle iletişime geçmek için: abdurrahmank118@gmail.com
+
+<h1 align="center">Merhaba! 👋, Ben Abdurrahman Karaoğlu</h1>
+<h3 align="center">Merhaba! Ben Abdurrahman Karaoğlu, bir Yazılım Geliştirici ve teknoloji meraklısıyım. Yazılım geliştirme, açık kaynak projeler ve yeni teknolojilere ilgi duyuyorum.</h3>
+
+- 🌱 Şu anda öğrenmekte olduğum teknolojiler: **Flutter, C#, .Net Core, Node.js, MS SQL, Blazor**
+- 🌱 Ayrıca, şu teknolojileri de keşfediyorum: **RabbitMQ, Redis**
+
+- 📫 Benimle iletişime geçmek için: **abdurrahmank118@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrahman-karaoglu-405369207) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abdurrahmankaraoglu11) 
