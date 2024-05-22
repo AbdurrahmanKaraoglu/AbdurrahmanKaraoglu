@@ -13,13 +13,11 @@
                 ve kullanıcı dostu arayüzler oluşturuyorum. Yazılım geliştirme tutkum, açık kaynak projelere katkıda bulunma isteğim ve sürekli olarak yeni teknolojileri öğrenme arzum beni her zaman
                 motive ediyor. Bu yönlerimle birlikte, projelerimi yenilikçi ve etkili bir şekilde yönetme yeteneğine sahibim. Ayrıca, takım çalışmasına uyumlu bir yapıya sahibim ve iletişim
                 becerilerimle projelerdeki paydaşlarla etkili bir şekilde iletişim kurabiliyorum.</span>
-
             <ul>
                 <li>🌱 Şu anda öğrenmekte olduğum teknolojiler: <strong>Flutter, C#, .Net Core, Node.js, MS SQL, Blazor</strong></li>
                 <li>🌱 Ayrıca, şu teknolojileri de keşfediyorum: <strong>RabbitMQ, Redis</strong></li>
                 <li>📫 Benimle iletişime geçmek için: <strong>abdurrahmank118@gmail.com</strong></li>
             </ul>
-
             <h2 align="start">👨‍💻 Hakkımda:</h2>
             <p>Bilgisayar programcılığı alanındaki önlisans eğitimimin ardından Bilgisayar Mühendisliği lisans eğitimine geçiş yaptım. Bilgisayar bilimleri ve yazılım geliştirme konusundaki tutkum,
                 bilgi ve becerilerimizi sürekli olarak geliştirmemi sağladı. İş hayatına <strong>ARGEM BİLGİ TEKNOLOJİLERİ GIDA VE DIŞ TİCARET LİMİTED ŞİRKETİ</strong>'nde yazılım geliştirici olarak
@@ -27,7 +25,6 @@
                 zamandan beri birçok yazılım projesine katkıda bulundum. Şu anda <strong>SENCE BİLİŞİM ANONİM ŞİRKETİ</strong>'nde çalışıyorum.</p>
         </td>
     </tr>
-
     <tr>
         <td style="width: 10%; vertical-align: center;">
             <!-- İlk Bölme -->
@@ -40,13 +37,11 @@
                 CSS, JavaScript, and Flutter. My passion for software development, desire to contribute to open-source projects, and eagerness to constantly learn new technologies always motivate me.
                 With these qualities, I'm able to manage my projects innovatively and effectively. Additionally, I possess a cooperative nature for teamwork and can communicate effectively with
                 stakeholders in projects.</span>
-
             <ul>
                 <li>🌱 <strong>Technologies I'm currently learning:</strong> Flutter, C#, .Net Core, Node.js, MS SQL, Blazor</li>
                 <li>🌱 <strong>Technologies I'm also exploring:</strong> RabbitMQ, Redis</li>
                 <li>📫 <strong>Get in touch with me:</strong> abdurrahmank118@gmail.com</li>
             </ul>
-
             <h2 align="start">👨‍💻 About Me:</h2>
             <p>After completing my associate degree in computer programming, I transitioned to a bachelor's degree in Computer Engineering. My passion for computer science and software development has
                 continuously driven me to enhance my knowledge and skills. I began my professional career as a software developer at <strong>ARGEM BİLGİ TEKNOLOJİLERİ GIDA VE DIŞ TİCARET LİMİTED ŞİRKETİ</strong>, where
