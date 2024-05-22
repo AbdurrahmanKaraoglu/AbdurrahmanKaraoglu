@@ -50,10 +50,6 @@
     </tr>
 </table>
 
-
-## 👨‍💻 Hakkımda:
-Bilgisayar programcılığı alanındaki önlisans eğitimimin ardından Bilgisayar Mühendisliği lisans eğitimine geçiş yaptım. Bilgisayar bilimleri ve yazılım geliştirme konusundaki tutkum, bilgi ve becerilerimi sürekli olarak geliştirmemi sağladı. İş hayatına ARGEM BİLGİ TEKNOLOJİLERİ GIDA VE DIŞ TİCARET LİMİTED ŞİRKET'inde yazılım geliştirici olarak başladım ve o zamandan beri birçok yazılım projesine katkıda bulundum. Şu anda SENCE BİLİŞİM ANONİM ŞİRKETİ'nde çalışıyorum.
-
 ## 🌐 Sosyal Medya:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrahman-karaoglu-405369207) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abdurrahmankaraoglu11) 
 
