@@ -1,11 +1,11 @@
 <table border="1" width="100%">
     <tr>
-        <td style="width: 20%; vertical-align: center;">
+        <td style="width: 30%; vertical-align: center;">
             <!-- Üçüncü Bölme -->
             <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkish Flag" width="150" height="100"
-                style="display: block; ">
+                style="display: block; margin-left: auto; margin-right: auto;">
         </td>
-        <td style="width: 80%; vertical-align: top;">
+        <td style="width: 70%; vertical-align: top;">
             <!-- Dördüncü Bölme -->
             <h1 align="center">Merhaba! 👋, Ben Abdurrahman Karaoğlu</h1>
             <span style="font-size: 18px;">🚀 Yazılım geliştiriciyim ve bu alanda hem Backend hem de Frontend uzmanlığına sahibim. Backend tarafında genellikle C# .NET Core ve Node.js kullanarak
@@ -50,12 +50,12 @@
     </tr>
 </table>
 
-## 🌐 Sosyal Medya:
+## 🌐 Sosyal Medya | Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrahman-karaoglu-405369207) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abdurrahmankaraoglu11) 
 
-## 💻 Teknoloji Yığını:
+## 💻 Teknoloji Yığını | Technology Stack:
 
-### Diller
+### Diller | Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -64,7 +64,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-### Frameworkler ve Kütüphaneler
+### Frameworkler ve Kütüphaneler | Frameworks and Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -77,20 +77,20 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Veritabanları
+### Veritabanları | Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Bulut ve Barındırma
+### Bulut ve Barındırma | Cloud and Hosting
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
-### Araçlar
+### Araçlar | Tools
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -98,15 +98,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub İstatistikleri:
+## 📊 GitHub İstatistikleri | GitHub Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=AbdurrahmanKaraoglu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdurrahmanKaraoglu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahmanKaraoglu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Rastgele Yazılım Alıntısı
+### ✍️ Rastgele Yazılım Alıntısı | Random Software Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 En Çok Katkıda Bulunulan Repo
+### 🔝 En Çok Katkıda Bulunulan Repo | Most Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbdurrahmanKaraoglu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂
