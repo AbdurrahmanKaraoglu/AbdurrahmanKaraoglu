@@ -65,7 +65,7 @@
 ### 🔝 En Çok Katkıda Bulunulan Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbdurrahmanKaraoglu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Rastgele Geliştirici Memesi
+### 😂
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
