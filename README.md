@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h3 align="left">Kullandığım Diller ve Araçlar:</h3>
+<h3 align="left">Uzmanlık Alanlarım:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -96,4 +96,10 @@
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=AbdurrahmanKaraoglu&theme=algolia" alt="Abdurrahman Karaoğlu's Contribution Graph" />
+</p>
+
+### En Çok Katkıda Bulunduğum Repo
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdurrahmanKaraoglu&repo=YOUR_REPO_NAME&theme=algolia" alt="En Çok Katkıda Bulunduğum Repo" />
 </p>
