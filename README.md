@@ -14,7 +14,7 @@
                 motive ediyor. Bu yönlerimle birlikte, projelerimi yenilikçi ve etkili bir şekilde yönetme yeteneğine sahibim. Ayrıca, takım çalışmasına uyumlu bir yapıya sahibim ve iletişim
                 becerilerimle projelerdeki paydaşlarla etkili bir şekilde iletişim kurabiliyorum.</span>
             <ul>
-                <li>🌱 Şu anda öğrenmekte olduğum teknolojiler: <strong>Flutter, C#, .Net Core, Node.js, MS SQL, Blazor</strong></li>
+                <li>📚 Şu anda öğrenmekte olduğum teknolojiler: <strong>Flutter, C#, .Net Core, Node.js, MS SQL, Blazor</strong></li>
                 <li>🌱 Ayrıca, şu teknolojileri de keşfediyorum: <strong>RabbitMQ, Redis</strong></li>
                 <li>📫 Benimle iletişime geçmek için: <strong>abdurrahmank118@gmail.com</strong></li>
             </ul>
@@ -38,7 +38,7 @@
                 With these qualities, I'm able to manage my projects innovatively and effectively. Additionally, I possess a cooperative nature for teamwork and can communicate effectively with
                 stakeholders in projects.</span>
             <ul>
-                <li>🌱 <strong>Technologies I'm currently learning:</strong> Flutter, C#, .Net Core, Node.js, MS SQL, Blazor</li>
+                <li>📚 <strong>Technologies I'm currently learning:</strong> Flutter, C#, .Net Core, Node.js, MS SQL, Blazor</li>
                 <li>🌱 <strong>Technologies I'm also exploring:</strong> RabbitMQ, Redis</li>
                 <li>📫 <strong>Get in touch with me:</strong> abdurrahmank118@gmail.com</li>
             </ul>
@@ -64,7 +64,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-### Frameworkler ve Kütüphaneler | Frameworks and Libraries
+### 📚 Frameworkler ve Kütüphaneler | Frameworks and Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -77,20 +77,20 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Veritabanları | Databases
+### 🗄️ Veritabanları | Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Bulut ve Barındırma | Cloud and Hosting
+### ☁️ Bulut ve Barındırma | Cloud and Hosting
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
-### Araçlar | Tools
+### 🛠️ Araçlar | Tools
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -98,7 +98,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### GitHub Ödülleri | GitHub Awards 🏆
+### 🏆 GitHub Ödülleri | GitHub Awards
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdurrahmanKaraoglu&theme=algolia" alt="Abdurrahman Karaoğlu's GitHub Trophies" />
 </p>
