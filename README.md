@@ -100,23 +100,19 @@ Ok Kaçışı (Unarrow) · Kilim Dokuma · Emektar Garaj (Usta Garage) — tanı
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **Araçlar · Tools**<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
 
 ---
 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdurrahmanKaraoglu&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub istatistikleri · GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahmanKaraoglu&layout=compact&theme=transparent&hide_border=true" alt="En çok kullanılan diller · Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahmanKaraoglu&layout=compact&hide=jupyter%20notebook,c%2B%2B,cmake&theme=transparent&hide_border=true" alt="En çok kullanılan diller · Top languages" height="165"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbdurrahmanKaraoglu&theme=transparent&hide_border=true" alt="Katkı serisi · Contribution streak"/>
