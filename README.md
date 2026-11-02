@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://abdurrahmankaraoglu.com"><img src="https://img.shields.io/badge/Web-abdurrahmankaraoglu.com-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white" alt="Web sitesi"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=6356120141811273735"><img src="https://img.shields.io/badge/Google%20Play-Karaoglu%20Software-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a>
   <a href="https://linkedin.com/in/abdurrahman-karaoglu-405369207"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://youtube.com/@karaoglusoftware"><img src="https://img.shields.io/badge/YouTube-Karao%C4%9Flu%20Software-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:abdurrahman.karaoglu.dev@gmail.com"><img src="https://img.shields.io/badge/E--posta-abdurrahman.karaoglu.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-posta"/></a>
@@ -18,9 +19,9 @@
 
 Kurumsal projelerde **backend** ve **frontend** tarafını birlikte üstlenen bir full stack geliştiriciyim.
 **SENCE Bilişim**'de yazılım geliştirici olarak çalışıyorum; daha önce **ARGEM Bilgi Teknolojileri**'nde
-çalıştım ve iki farklı **TÜBİTAK** projesinde görev aldım. Aynı zamanda kendi mobil ürünlerimi tasarlayıp
-Google Play'de yayınlıyorum: yapay zekâ destekli fotoğraf onarımı, belge tarama, stok ve depo yönetimi,
-sensör füzyonlu rakım ölçümü.
+çalıştım ve iki farklı **TÜBİTAK** projesinde görev aldım. Aynı zamanda kendi mobil uygulamalarımı ve
+oyunlarımı tasarlayıp Google Play'de yayınlıyorum: yapay zekâ destekli fotoğraf onarımı, belge tarama,
+stok ve depo yönetimi, sensör füzyonlu rakım ölçümü ve bulmaca oyunları.
 
 Bilgisayar programcılığı ön lisansının ardından bilgisayar mühendisliği lisans eğitimine geçtim.
 Ürünlerimi uçtan uca kendim geliştiriyorum: mimari kararlar, Firebase ve Cloud Functions ile sunucu tarafı,
@@ -36,8 +37,8 @@ abonelik altyapısı, mağaza yayın süreci ve gizlilik uyumu dahil.
 I am a full stack developer who owns both the **backend** and the **frontend** in enterprise projects.
 I work as a software developer at **SENCE Bilişim**; before that I worked at **ARGEM Bilgi Teknolojileri**
 and took part in two separate **TÜBİTAK** projects. Alongside that, I design and publish my own mobile
-products on Google Play: AI-assisted photo restoration, document scanning, inventory and warehouse
-management, and sensor-fusion altitude measurement.
+apps and games on Google Play: AI-assisted photo restoration, document scanning, inventory and warehouse
+management, sensor-fusion altitude measurement and puzzle games.
 
 After an associate degree in Computer Programming I moved on to a bachelor's in Computer Engineering.
 I build my products end to end: architecture decisions, the server side with Firebase and Cloud Functions,
@@ -46,6 +47,8 @@ subscription infrastructure, the store release process and privacy compliance in
 ---
 
 ## 📱 Google Play'deki uygulamalar · Apps on Google Play
+
+Tümü · All: [Karaoglu Software — Google Play](https://play.google.com/store/apps/dev?id=6356120141811273735)
 
 | Uygulama · App | Ne yapar · What it does | Bağlantılar · Links |
 |---|---|---|
@@ -57,9 +60,16 @@ subscription infrastructure, the store release process and privacy compliance in
 | **Stockly** | Stok ve depo takibi · Inventory & warehouse | [Google Play](https://play.google.com/store/apps/details?id=com.abdurrahmankaraoglu.stockly) · [Tanıtım](https://abdurrahmankaraoglu.com/stockly) |
 | **Altimetrix** | Rakım ölçer ve barometre · Altimeter & barometer | [Google Play](https://play.google.com/store/apps/details?id=com.abdurrahmankaraoglu.altimetrix) · [Tanıtım](https://abdurrahmankaraoglu.com/altimetrix) |
 
-**Yakında · Coming soon:** Kamp Adası (Castaway Camp) · Taş Eşleştirme (Tile Match) · Vida Sökücü (Screw Sorter) ·
-Ok Kaçışı (Unarrow) · Kilim Dokuma · Emektar Garaj (Usta Garage) — tanıtım sayfaları
-[abdurrahmankaraoglu.com](https://abdurrahmankaraoglu.com) üzerinde.
+## 🎮 Google Play'deki oyunlar · Games on Google Play
+
+| Oyun · Game | Tür · Genre | Bağlantılar · Links |
+|---|---|---|
+| **Castaway Camp: Island Idle** (Kamp Adası) | Ada kurma idle oyunu · Island idle | [Google Play](https://play.google.com/store/apps/details?id=com.abdurrahmankaraoglu.kamp_adasi) · [Tanıtım](https://abdurrahmankaraoglu.com/kamp_adasi) |
+| **Kilim Weave: Yarn Sort Puzzle** (Kilim Dokuma) | İp sıralama bulmacası · Yarn sort puzzle | [Google Play](https://play.google.com/store/apps/details?id=com.abdurrahmankaraoglu.kilim_dokuma) · [Tanıtım](https://abdurrahmankaraoglu.com/kilim_dokuma) |
+| **Tile Match: Calm Triple Puzzle** (Taş Eşleştirme) | Üçlü taş eşleştirme · Triple tile match | [Google Play](https://play.google.com/store/apps/details?id=com.abdurrahmankaraoglu.tas_eslestir) · [Tanıtım](https://abdurrahmankaraoglu.com/tas_eslestir) |
+
+**Yakında · Coming soon:** Screw Sorter: Neon Sign Puzzle (Vida Sökücü) · Unarrow: Arrow Escape Puzzle (Ok Kaçışı) ·
+Usta Garage: Car Mechanic Sim — tanıtım sayfaları [abdurrahmankaraoglu.com](https://abdurrahmankaraoglu.com) üzerinde.
 
 ---
 
