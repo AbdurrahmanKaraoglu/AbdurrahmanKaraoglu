@@ -67,9 +67,9 @@ Tümü · All: [Karaoglu Software — Google Play](https://play.google.com/store
 | **Castaway Camp: Island Idle** (Kamp Adası) | Ada kurma idle oyunu · Island idle | [Google Play](https://play.google.com/store/apps/details?id=com.abdurrahmankaraoglu.kamp_adasi) · [Tanıtım](https://abdurrahmankaraoglu.com/kamp_adasi) |
 | **Kilim Weave: Yarn Sort Puzzle** (Kilim Dokuma) | İp sıralama bulmacası · Yarn sort puzzle | [Google Play](https://play.google.com/store/apps/details?id=com.abdurrahmankaraoglu.kilim_dokuma) · [Tanıtım](https://abdurrahmankaraoglu.com/kilim_dokuma) |
 | **Tile Match: Calm Triple Puzzle** (Taş Eşleştirme) | Üçlü taş eşleştirme · Triple tile match | [Google Play](https://play.google.com/store/apps/details?id=com.abdurrahmankaraoglu.tas_eslestir) · [Tanıtım](https://abdurrahmankaraoglu.com/tas_eslestir) |
+| **Screw Sorter: Neon Sign Puzzle** (Vida Sökücü) | Vida sıralama bulmacası · Screw sort puzzle | [Google Play](https://play.google.com/store/apps/details?id=com.abdurrahmankaraoglu.vida_sokucu) · [Tanıtım](https://abdurrahmankaraoglu.com/vida_sokucu) |
 
-**Yakında · Coming soon:** Screw Sorter: Neon Sign Puzzle (Vida Sökücü) · Unarrow: Arrow Escape Puzzle (Ok Kaçışı) ·
-Usta Garage: Car Mechanic Sim — tanıtım sayfaları [abdurrahmankaraoglu.com](https://abdurrahmankaraoglu.com) üzerinde.
+**Yakında · Coming soon:** Unarrow: Arrow Escape Puzzle (Ok Kaçışı) · Usta Garage: Car Mechanic Sim — tanıtım sayfaları [abdurrahmankaraoglu.com](https://abdurrahmankaraoglu.com) üzerinde.
 
 ---
 
